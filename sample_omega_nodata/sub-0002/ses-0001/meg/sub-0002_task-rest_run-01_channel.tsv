@@ -1,0 +1,331 @@
+name	type	description	onlinefilter	samplingrate
+SCLK01-177	SysClock	System time showing elapsed time since trial started	anti-alias	2400
+BG1-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BG2-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BG3-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BP1-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BP2-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BP3-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BR1-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BR2-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+BR3-4408	MAG REF	Reference magnetometer channel	anti-alias	2400
+G11-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+G12-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+G13-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+G22-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+G23-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+P11-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+P12-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+P13-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+P22-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+P23-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+Q11-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+Q12-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+Q22-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+Q23-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+R12-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+R13-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+R22-4408	GRAD REF	Reference 1st-order gradiometer channel	anti-alias	2400
+MLC11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC15-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC16-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC17-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC25-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC61-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC62-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLC63-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF25-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF35-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF45-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF46-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF56-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF61-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF62-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF63-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF64-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF65-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF66-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLF67-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLO53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP35-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP45-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP56-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLP57-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT15-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT16-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT25-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT26-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT27-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT35-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT36-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT37-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT45-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT46-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT47-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT56-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MLT57-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC15-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC16-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC17-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC25-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC61-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC62-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRC63-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF25-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF35-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF45-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF46-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF56-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF61-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF62-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF63-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF64-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF65-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF66-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRF67-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRO53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP35-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP45-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP56-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRP57-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT11-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT12-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT13-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT14-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT15-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT16-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT21-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT22-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT23-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT24-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT25-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT26-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT31-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT32-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT33-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT34-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT35-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT36-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT37-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT41-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT42-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT43-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT44-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT45-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT46-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT51-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT52-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT53-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT54-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT55-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MRT56-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZC01-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZC02-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZC03-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZC04-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZF01-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZF02-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZF03-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZO01-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZO02-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZO03-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+MZP01-4408	MEG	Sensor 1st-order gradiometer channel located in head shell	anti-alias	2400
+ECG	EEG bipolar	EEG bipolar sensor not on the scalp	anti-alias	2400
+VEOG	EEG bipolar	EEG bipolar sensor not on the scalp	anti-alias	2400
+HEOG	EEG bipolar	EEG bipolar sensor not on the scalp	anti-alias	2400
+HADC001-4408	ADC A	ADC Input Current (Amps)		2400
+HADC002-4408	ADC A	ADC Input Current (Amps)		2400
+HADC003-4408	ADC A	ADC Input Current (Amps)		2400
+HDAC001-4408	DAC	DAC channel from ECC or HLU		2400
+HDAC002-4408	DAC	DAC channel from ECC or HLU		2400
+HDAC003-4408	DAC	DAC channel from ECC or HLU		2400
+HLC0011-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0012-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0013-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0021-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0022-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0023-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0031-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0032-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0033-4408	HLU	Measured position of head and head coils	anti-alias	2400
+HLC0018-4408	FitErr	Fit error from each head localization coil		2400
+HLC0028-4408	FitErr	Fit error from each head localization coil		2400
+HLC0038-4408	FitErr	Fit error from each head localization coil		2400
+HLC0014-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0015-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0016-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0017-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0024-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0025-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0026-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0027-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0034-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0035-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0036-4408	Other	Any other type of sensor not mentioned but still valid		2400
+HLC0037-4408	Other	Any other type of sensor not mentioned but still valid		2400

@@ -1,0 +1,19 @@
+{
+  "Name": "OMEGA",
+  "BIDSVersion": "1.0.0rc3",
+  "License": "PD",
+  "Authors": [
+    "Guiomar Niso",
+    "Jeremy Moreau",
+    "Elizabeth Bock",
+    "Francois Tadel",
+    "Sylvain Baillet"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "You are free to use all data in OMEGA for research purposes; please aknowledge its authors and cite the following reference in your publications if you have used data from OMEGA: Niso G, Rogers C, Moreau JT, Chen LY, Madjar C, Das S, Bock E, Tadel F, Evans A, Jolicoeur P, Baillet S. OMEGA: The Open MEG Archive. Neuroimage. 2015; Available from: http://dx.doi.org/10.1016/j.neuroimage.2015.04.028",
+  "Funding": "",
+  "ReferencesAndLinks": [
+"Niso G, Rogers C, Moreau JT, Chen LY, Madjar C, Das S, Bock E, Tadel F, Evans A, Jolicoeur P, Baillet S. OMEGA: The Open MEG Archive. Neuroimage. 2015; Available from: http://dx.doi.org/10.1016/j.neuroimage.2015.04.028"
+],
+  "DatasetDOI": ""
+}
