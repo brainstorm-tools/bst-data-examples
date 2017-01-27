@@ -1,0 +1,14 @@
+# Dataset Auditory Visual - MNE
+
+## License
+
+This dataset (MEG and MRI data) was collected by the MGH/HMS/MIT Athinoula A. Martinos Center Biomedical Imaging, Boston, USA. The original purpose was to serve as a tutorial data example for the MNE software project (http://martinos.org/mne). It is presently released in the Public Domain, and is not subject to copyright in any jurisdiction.
+
+We would appreciate though that you reference this dataset in your publications: please acknowledge the MNE community and cite the MNE project publication [1]: 
+https://www.ncbi.nlm.nih.gov/pubmed/24161808
+
+## Presentation of the experiment
+
+The dataset is described at http://martinos.org/mne/stable/manual/sample_dataset.html
+
+[1]: http://martinos.org/mne/stable/cite.html
