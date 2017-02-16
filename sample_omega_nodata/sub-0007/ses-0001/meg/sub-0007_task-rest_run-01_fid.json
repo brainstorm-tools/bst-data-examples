@@ -1,0 +1,17 @@
+{
+	"AssociatedAnatomicalMRI": "sub-0007\/ses-0001\/anat\/sub-0007_T1w.nii.gz",
+	"CoordinateSystem": "ctf",
+	"CoordinateUnits": "cm",
+	"CoordinateSystemDescription": "",
+	"CoilCoordinates": {
+		"COIL1": [9.64081113,0.05215993,0.05933768],
+		"COIL2": [-0.03473186,7.06730299,-0.07866974],
+		"COIL3": [0.01670353,-7.12784147,-0.01598252]
+	},
+	"LandmarkCoordinates": {
+		"NAS": null,
+		"LPA": null,
+		"RPA": null
+	},
+	"AssociatedDigitizedHeadPoints": "sub-0007\/ses-0001\/meg\/sub-0007_task-rest_run-01_meg.ds\/sub-0007_task-rest_run-01_meg.pos"
+}
